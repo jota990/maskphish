@@ -15,7 +15,7 @@ FOR EDUCATIONAL PURPOSES ONLY. Usage of MaskPhish for attacking targets without 
 ## Installation 
 
 ```
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/jota990/maskphish.git
 cd maskphish
 bash maskphish.sh
 ```
